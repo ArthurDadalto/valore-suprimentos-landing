@@ -55,4 +55,3 @@ Esta landing page foi construída e estruturada do zero por **Arthur Dadalto**.
 *   📸 [Instagram (@arthur_dadalto)](https://www.instagram.com/arthur_dadalto/)
 *   💬 [WhatsApp](https://wa.me/27997818321?text=Olá!)
 
-Para implementar o portal ao vivo, um CI/CD otimizado de integração contínua pela plataforma **Vercel** foi adicionado. Qualquer novidade no código em *Commit/Push* já estará espelhado na internet em segundos.
