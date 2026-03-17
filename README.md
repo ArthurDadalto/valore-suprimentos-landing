@@ -8,7 +8,7 @@ O objetivo deste projeto é proporcionar uma presença digital profissional, tra
 
 ---
 
-## ��� Proposta do Site
+## 🚀 Proposta do Site
 
 O site foi desenhado para atuar como o principal cartão de visitas da **Valore Suprimentos** na internet. Seus principais propósitos são:
 
@@ -17,7 +17,7 @@ O site foi desenhado para atuar como o principal cartão de visitas da **Valore 
 3. **Vitrine do Portfólio:** Destacar as marcas de peso atualmente representadas com fácil acesso a catálogos em PDF e links externos.
 4. **Conversão Rápida:** Facilitar o contato direto pelo WhatsApp ou email através de Call-To-Actions (CTAs) espalhados estrategicamente pelo site.
 
-## ��� Funcionalidades
+## 🌟 Funcionalidades
 
 - **Design Premium e Dark Mode Nativo:** Uma paleta de cores focada em um "Verde Escuro" (associado à esperança/crescimento) e "Dourado" (associado à prosperidade/alto valor) garantindo uma navegação com aspecto luxuoso.
 - **Navegação Fixa (Sticky Navbar):** Um cabeçalho que acompanha o leitor por toda a página, facilitando o acesso rápido a qualquer seção. Possui versão hamburguer e navegação elegante no acesso móvel.
@@ -28,7 +28,7 @@ O site foi desenhado para atuar como o principal cartão de visitas da **Valore 
 
 ---
 
-## ���️ Tecnologias Utilizadas (Hard Skills)
+## 🛠️ Tecnologias Utilizadas (Hard Skills)
 
 O projeto foi construído priorizando a performance absoluta, por isso não requer um processo de "build" pesado ou frameworks de terceiros gigantes:
 
@@ -37,7 +37,7 @@ O projeto foi construído priorizando a performance absoluta, por isso não requ
 *   **JavaScript Vanilla (ES6+):** Código limpo (sem jQuery ou bibliotecas), utilizado moderadamente para lidar apenas com interações visuais essenciais (Intersection Observer para animações de visibilidade no rolamento e o Menu Hamburger mobile);
 *   **Fontes Google e Ícones:** Uso apurado de `Playfair Display` para dar destaque sofisticado aos títulos e `Inter` para clareza máxima de leitura nos parágrafos, combinados com *FontAwesome*.
 
-## ��� Soft Skills Aplicadas
+## 🧠 Soft Skills Aplicadas
 
 Construir este projeto envolveu competências interpessoais e de gestão importantes, tais como:
 
@@ -48,11 +48,11 @@ Construir este projeto envolveu competências interpessoais e de gestão importa
 
 ---
 
-## ���‍��� Desenvolvedor
+## 👨‍💻 Desenvolvedor
 
 Esta landing page foi construída e estruturada do zero por **Arthur Dadalto**.
 
-*   ��� [Instagram (@arthur_dadalto)](https://www.instagram.com/arthur_dadalto/)
-*   ��� [WhatsApp](https://wa.me/27997818321?text=Olá!)
+*   📸 [Instagram (@arthur_dadalto)](https://www.instagram.com/arthur_dadalto/)
+*   💬 [WhatsApp](https://wa.me/27997818321?text=Olá!)
 
 Para implementar o portal ao vivo, um CI/CD otimizado de integração contínua pela plataforma **Vercel** foi adicionado. Qualquer novidade no código em *Commit/Push* já estará espelhado na internet em segundos.
