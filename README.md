@@ -1,6 +1,6 @@
 # Valore Suprimentos - Landing Page
 
-[![Deploy with Vercel](https://vercel.com/button)](https://vercel.com/new/clone?repository-url=https%3A%2F%2Fgithub.com%2FSEU-USUARIO%2Fvalore-suprimentos-landing)
+[![Deploy with Vercel](https://vercel.com/button)](https://valoresuprimentos.vercel.app/)
 
 Landing Page institucional e responsiva desenvolvida para a **Valore Suprimentos**, uma empresa de representação comercial focada na gestão estratégica de vendas de alta performance no estado do Espírito Santo.
 
